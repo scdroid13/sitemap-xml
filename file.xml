@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <sitemap>
-    loc>https://www.hows.tech/sitemap.xml?page=1</loc>
+    <loc>https://www.hows.tech/sitemap.xml?page=1</loc>
 </sitemap>
 <sitemap>
     <loc>https://www.hows.tech/sitemap.xml?page=2</loc>
@@ -216,8 +216,7 @@
 <sitemap>
     <loc>https://www.hows.tech/sitemap.xml?page=72</loc>
 </sitemap>
-
-    <sitemap>
+<sitemap>
     <loc>https://www.hows.tech/atom.xml?redirect=false&start-index=1&max-results=500</loc>
 </sitemap>
 <sitemap>
